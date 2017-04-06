@@ -1,0 +1,78 @@
+{
+    "title": "Server Team Top Tracks",
+    "entries": [
+        {
+            "trackId": "85432410",
+            "heading": {
+                "en": {
+                    "trackTitle": "Get Lucky",
+                    "artistName": "Daft Punk Feat. Pharrell Williams"
+                },
+                "ko": {
+                    "trackTitle": "Get Lucky",
+                    "artistName": "Daft Punk (다프트 펑크) Feat. Pharrell Williams"
+                },
+                "ja": {
+                    "trackTitle": "ゲット・ラッキー",
+                    "artistName": "ＤＡＦＴ　ＰＵＮＫ Feat. ファレル・ウィリアムス"
+                }
+            }
+        },
+        {
+            "trackId": "103212401",
+            "heading": {
+                "it": {
+                    "trackTitle": "Il Ballo Del Qua Qua",
+                    "artistName": "Romina Power"
+                },
+                "sv": {
+                    "trackTitle": "Fågeldansen",
+                    "artistName": "Romina Power"
+                },
+                "en": {
+                    "trackTitle": "The Birdie Song",
+                    "artistName": "Romina Power"
+                }
+            }
+        },
+        {
+            "trackId": "89297603",
+            "heading": {
+                "en": {
+                    "trackTitle": "Smells Like Teen Spirit",
+                    "artistName": "Nirvana"
+                },
+                "ja": {
+                    "trackTitle": "スメルズ・ライク・ティーン・スピリット",
+                    "artistName": "ニルヴァーナ"
+                }
+            }
+        },
+        {
+            "trackId": "30045194",
+            "heading": {
+                "en": {
+                    "trackTitle": "Family Portrait",
+                    "artistName": "P!nk"
+                },
+                "ja": {
+                    "trackTitle": "ファミリー・ポートレイト",
+                    "artistName": "P!Nk"
+                }
+            }
+        },
+        {
+            "trackId": "52676560",
+            "heading": {
+                "en": {
+                    "trackTitle": "Miami 2 Ibiza",
+                    "artistName": "Swedish House Mafia Vs. Tinie Tempah"
+                },
+                "ja": {
+                    "trackTitle": "マイアミ・トゥー・イビザ",
+                    "artistName": "スウェディッシュ・ハウス・マフィア"
+                }
+            }
+        }
+    ]
+}
